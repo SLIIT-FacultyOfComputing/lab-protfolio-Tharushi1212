@@ -7,9 +7,9 @@ class AuthService {
   // sign in annonymous user
   Future signInAnonymously() async {
     try {
-      AuthResult response = await _auth.signInAnonymously();
-      FirebaseUser user = response.user;
-      return user;
+      UserCredential response = await _auth.signInAnonymously();
+      //User user = response.user; //error with user
+      //return user;
     } catch (e) {
       print(e.toString());
       return null;
