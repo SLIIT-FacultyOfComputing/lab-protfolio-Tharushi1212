@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491498573135",
+    "project_id": "recipes-cc5b3",
+    "storage_bucket": "recipes-cc5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491498573135:android:28107064ffaf70435a493a",
+        "android_client_info": {
+          "package_name": "com.example.labactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491498573135-34qs0icle625jgpcvo1qmr5k4mh98jm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9y-stvsEyFXDcQ2Q2PHRMK08NIYGH2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491498573135-34qs0icle625jgpcvo1qmr5k4mh98jm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
